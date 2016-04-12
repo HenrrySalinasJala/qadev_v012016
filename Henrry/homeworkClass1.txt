@@ -1,0 +1,13 @@
+What is ruby?
+Ruby is a powerfull language oriented completly to Objects that is used to create software web and desktop
+
+What pros/cons you considered from the point explained in the class
+	+ No more end line tag (;)
+	+ No include libraries
+	-  Code inherited from 1995
+	
+According what we talked today, what are the 3 testing tiers?
+	The first level used to test UI (front-end)
+	The second level used to test the web services API Rest, SOAP 
+	The third level is used to test code, databae, stored procedures( backend)
+

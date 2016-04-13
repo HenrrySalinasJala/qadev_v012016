@@ -1,10 +1,10 @@
 =begin
-case for each one of the arithmetic, comparison, assignment and logical operators
+An error should be displayed when a variable doesnt initialized
 =end
-#Using arithmetic operators
+
 var1=200
 var2=400
-puts "the error is#{varX}"
+puts "the error is#{varX+var1}"
 
 
 

@@ -4,7 +4,7 @@ case for each one of the arithmetic, comparison, assignment and logical operator
 #Using arithmetic operators
 var1=200
 var2=400
-puts var2+varX
+puts "the error is#{varX}"
 
 
 

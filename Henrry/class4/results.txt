@@ -1,0 +1,15 @@
+results of prt_using_instance_variables.rb
+
+The father money is 500
+The child 1 take out 150 of its father money then the father money is 350
+The child 2 take out 50 of its father money then the father money is 300
+The child 3 take out 70 of its father money then the father money is 230
+
+
+
+
+results of prt_getter_setter_practice.rb
+
+Hi henrry
+
+henrry, best regards!!!

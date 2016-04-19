@@ -1,0 +1,12 @@
+
+
+prt_block_yield.rb
+
+first homework example  message
+
+
+
+You are in the block 123456
+You are in the method test after call the block and before call again the same b
+lock
+You are in the block 654321

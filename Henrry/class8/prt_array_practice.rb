@@ -80,3 +80,25 @@ numerical,alphabetical,mixedArray=practice.method1
 practice.method2 numerical, alphabetical
 practice.printArray practice.method3 numerical, mixedArray
 
+=begin
+*************************RESULTS**************************
+insert a number of elements in array
+5
+ Insert the 1 value:
+1
+ Insert the 2 value:
+2
+ Insert the 3 value:
+3
+ Insert the 4 value:
+4
+ Insert the 5 value:
+5
+[1, 2]
+the first elements of first array are: 1
+the last elements of second array are: z
+[2, 3, 4, 5, 1, 2, 3, 4, 5, "c", 1, "a", "b", 2]
+[1, "z"]
+
+	
+=end

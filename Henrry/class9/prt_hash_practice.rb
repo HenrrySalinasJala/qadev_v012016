@@ -6,7 +6,7 @@ class PrtHashPractice
 		@hashX=Hash.new
 		length.times do |i|
 			puts " Insert the #{i +1} value: "
-				value=gets.chop.to_i
+				value=gets.chop
 				hashX[i]=value
 			
 		end
@@ -24,11 +24,11 @@ class PrtHashPractice
 		
 	end
 	def keyExists?(keyToFind)
-		puts hashX.has_key? (keyToFind)
+		puts @hashX.has_key? (keyToFind)
 
 	end
-	def ValueExists?(valueToFind)
-		puts hashX.has_value? (valueToFind)
+	def valueExists?(valueToFind)
+		puts @hashX.has_value? (valueToFind)
 
 	end
 	def askKey
@@ -37,9 +37,8 @@ class PrtHashPractice
 
 	end
 	def askValue
-		print "insert an key value: "
-		valueToSearch=gets.chop.to_s
-
+		print "insert value: "
+		valueToSearch=gets.chop
 	end
 end
 hash=PrtHashPractice.new
@@ -53,4 +52,4 @@ hash.printHash
 puts "\n\n"
 hash.keyExists? hash.askKey
 puts "\n\n"
-hash.ValueExists? hash.askValue
+hash.valueExists? hash.askValue

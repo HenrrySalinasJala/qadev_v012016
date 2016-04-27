@@ -30,7 +30,6 @@ class UserSingleton
 		@visitor=0
 		@hashUsers=Hash.new
 		@arrayUsers=Array.new
-
 	end
 	def addUser(username,msg)
 		@user=username
@@ -38,7 +37,6 @@ class UserSingleton
 		@hashUsers.store username,msg
 		@visitor+=1
 	end
-		
 end
 puts "************************************************************"
 us=UserSingleton.instance
@@ -48,7 +46,6 @@ us.addUser "Rosary","Hey woman"
 us.addUser "July","Hey other woman"
 us.addUser "lastmam","Hey man"
 us.addUser "junan","Hey man"
-
 p us.hashUsers
 p us.user	
 

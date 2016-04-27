@@ -1,0 +1,101 @@
+|USER	|PASSWORD	|TRAVEL_DATE	|DESTINATION	|
+|USER_1	|2061.	|1992-06-20	|Chuquisaca	|
+|USER_2	|2047.	|1990-10-14	|Potosi	|
+|USER_3	|2041.	|1999-12-24	|Pando	|
+|USER_4	|2022.	|1978-02-05	|Chuquisaca	|
+|USER_5	|2093.	|1982-04-11	|Beni	|
+|USER_6	|2110.	|2000-02-07	|Cochabamba	|
+|USER_7	|2098.	|2012-03-02	|Potosi	|
+|USER_8	|2077.	|1972-03-16	|Tarija	|
+|USER_9	|2079.	|1982-07-15	|Oruro	|
+|USER_10	|2009.	|1981-07-31	|Santa Cruz	|
+|USER_11	|2049.	|2006-01-11	|Cochabamba	|
+|USER_12	|2078.	|1985-11-09	|Santa Cruz	|
+|USER_13	|2074.	|1985-07-12	|Chuquisaca	|
+|USER_14	|2082.	|2001-11-11	|Oruro	|
+|USER_15	|2059.	|2008-04-09	|Oruro	|
+|USER_16	|2032.	|1995-06-07	|Santa Cruz	|
+|USER_17	|2015.	|1983-06-06	|Chuquisaca	|
+|USER_18	|2026.	|1972-05-24	|Potosi	|
+|USER_19	|2104.	|1989-05-02	|Oruro	|
+|USER_20	|2007.	|1988-03-13	|Beni	|
+|USER_21	|2025.	|1986-05-19	|Potosi	|
+|USER_22	|2090.	|2009-11-10	|Chuquisaca	|
+|USER_23	|2037.	|1998-05-14	|Cochabamba	|
+|USER_24	|2063.	|2007-04-08	|La Paz	|
+|USER_25	|2015.	|1998-03-11	|Santa Cruz	|
+|USER_26	|2012.	|1975-12-10	|Beni	|
+|USER_27	|2065.	|1998-08-06	|Tarija	|
+|USER_28	|2019.	|1988-03-08	|Potosi	|
+|USER_29	|2103.	|2014-03-14	|Beni	|
+|USER_30	|2012.	|1975-09-28	|Santa Cruz	|
+|USER_31	|2080.	|2004-09-27	|Beni	|
+|USER_32	|2037.	|2005-01-06	|La Paz	|
+|USER_33	|2061.	|1982-10-08	|Santa Cruz	|
+|USER_34	|2058.	|1977-09-21	|Pando	|
+|USER_35	|2062.	|1974-10-06	|La Paz	|
+|USER_36	|2103.	|1996-03-03	|Potosi	|
+|USER_37	|2089.	|1989-07-06	|La Paz	|
+|USER_38	|2105.	|1996-12-14	|Potosi	|
+|USER_39	|2011.	|1981-08-24	|Pando	|
+|USER_40	|2007.	|1997-12-03	|Beni	|
+|USER_41	|2074.	|1975-09-09	|Oruro	|
+|USER_42	|2097.	|1976-08-22	|Potosi	|
+|USER_43	|2086.	|1972-10-26	|La Paz	|
+|USER_44	|2020.	|1996-08-26	|La Paz	|
+|USER_45	|2063.	|1999-12-16	|Cochabamba	|
+|USER_46	|2076.	|1993-10-11	|Tarija	|
+|USER_47	|2090.	|1973-02-12	|Cochabamba	|
+|USER_48	|2093.	|2012-05-08	|Potosi	|
+|USER_49	|2093.	|2014-05-21	|Beni	|
+|USER_50	|2086.	|1990-08-16	|Pando	|
+|USER_51	|2076.	|1988-02-08	|La Paz	|
+|USER_52	|2076.	|1991-02-11	|Pando	|
+|USER_53	|2074.	|2004-11-29	|Beni	|
+|USER_54	|2093.	|2004-01-20	|Tarija	|
+|USER_55	|2101.	|1988-12-19	|Chuquisaca	|
+|USER_56	|2018.	|1978-07-01	|Oruro	|
+|USER_57	|2070.	|1970-04-14	|Potosi	|
+|USER_58	|2090.	|1983-09-04	|Beni	|
+|USER_59	|2012.	|1979-11-27	|Tarija	|
+|USER_60	|2100.	|1982-06-29	|Beni	|
+|USER_61	|2081.	|1989-06-28	|Potosi	|
+|USER_62	|2014.	|1980-02-29	|La Paz	|
+|USER_63	|2040.	|1993-04-27	|Chuquisaca	|
+|USER_64	|2017.	|1972-11-21	|Oruro	|
+|USER_65	|2074.	|1970-12-27	|Oruro	|
+|USER_66	|2006.	|1979-08-11	|La Paz	|
+|USER_67	|2025.	|2015-06-09	|Cochabamba	|
+|USER_68	|2026.	|1972-09-18	|Santa Cruz	|
+|USER_69	|2078.	|1982-12-24	|Pando	|
+|USER_70	|2024.	|1999-05-06	|Santa Cruz	|
+|USER_71	|2015.	|2012-08-22	|Tarija	|
+|USER_72	|2075.	|1997-06-12	|Santa Cruz	|
+|USER_73	|2062.	|2015-01-19	|Pando	|
+|USER_74	|2032.	|1990-12-14	|Santa Cruz	|
+|USER_75	|2094.	|1987-06-01	|Pando	|
+|USER_76	|2052.	|1982-02-28	|Santa Cruz	|
+|USER_77	|2073.	|1982-05-30	|Cochabamba	|
+|USER_78	|2050.	|1985-01-02	|Beni	|
+|USER_79	|2010.	|1987-08-06	|Pando	|
+|USER_80	|2031.	|1986-02-16	|Pando	|
+|USER_81	|2047.	|1976-07-10	|Beni	|
+|USER_82	|2011.	|1971-11-06	|Santa Cruz	|
+|USER_83	|2021.	|1989-07-07	|Potosi	|
+|USER_84	|2068.	|1973-11-30	|Potosi	|
+|USER_85	|2088.	|1980-11-04	|Beni	|
+|USER_86	|2068.	|1995-10-31	|Pando	|
+|USER_87	|2078.	|2001-07-05	|Cochabamba	|
+|USER_88	|2043.	|2007-02-24	|Oruro	|
+|USER_89	|2032.	|1983-06-13	|La Paz	|
+|USER_90	|2058.	|1974-08-21	|Oruro	|
+|USER_91	|2104.	|2013-11-19	|Santa Cruz	|
+|USER_92	|2036.	|1988-10-26	|Santa Cruz	|
+|USER_93	|2080.	|1979-05-06	|Pando	|
+|USER_94	|2063.	|2013-05-03	|Pando	|
+|USER_95	|2079.	|2014-08-02	|Oruro	|
+|USER_96	|2050.	|1986-08-18	|Potosi	|
+|USER_97	|2017.	|2004-12-06	|Potosi	|
+|USER_98	|2082.	|2008-11-23	|Chuquisaca	|
+|USER_99	|2018.	|2000-02-01	|Pando	|
+|USER_100	|2042.	|1994-08-14	|Cochabamba	|

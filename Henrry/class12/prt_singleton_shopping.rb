@@ -48,7 +48,9 @@ class Shopping
 		
 
 	end
-	
+	def calculatePrice
+		
+	end
 end
 
 shop=Shopping.new

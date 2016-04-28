@@ -56,3 +56,9 @@ end
 shop=Shopping.new
 
 shop.buyItem
+
+
+#Sorry i have problems understanding this excercise so  i can not finish : (
+#
+#
+#

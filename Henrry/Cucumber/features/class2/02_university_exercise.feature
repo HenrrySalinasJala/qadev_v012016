@@ -1,4 +1,5 @@
-Scenario: approve the religion quiz
+Feature: university
+Scenario: approve the  quiz
 Given I study for the quiz
 	And I confessed my faults
 	And I did a little help memory

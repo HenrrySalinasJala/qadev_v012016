@@ -18,3 +18,6 @@ end
 Then(/^the item should (deleted)$/) do |button|
   puts "the item was deleted"
 end
+
+
+#http://arjanvandergaag.nl/blog/cucumber-tips.html

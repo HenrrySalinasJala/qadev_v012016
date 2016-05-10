@@ -31,7 +31,7 @@ Given(/^I inserted (\d+{1,31}) as day$/) do |numDays|
   puts "the numdays is: "+numDays
 end
 
-Given(/^I inserted (\d+) as the year$/) do |numYears|
+Given(/^I inserted ([2000...3000]) as the year$/) do |numYears|
   puts "the years inserted is "+ numYears
 end
 
@@ -39,7 +39,7 @@ Given(/^I inserted (.*) as the username$/) do |username|
   puts "the username inserted is: "+username
 end
 
-Then(/^the email address should be ([a-zA-Z_])\@gmail\.com$/) do |usermail|
+Then(/^the email address should be ([a-zA-Z_0-9])@gmail\.com$/) do |usermail|
   puts "the email inserted: "+usermail
 end
 

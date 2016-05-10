@@ -16,3 +16,4 @@ Then(/^the board should look like this:$/) do |expected_table|
  #puts expected_table
  #puts @board
 end
+#cucumber -f html -o test.html features\steps\CLASS5\01_tables.feature

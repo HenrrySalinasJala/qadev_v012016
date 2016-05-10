@@ -27,22 +27,22 @@ end
 
 
 
-Given(/^I inserted (\d+) as day$/) do |numDays|
-  pending # Write code here that turns the phrase above into concrete actions
+Given(/^I inserted (\d+{1,31}) as day$/) do |numDays|
+  puts "the numdays is: "+numDays
 end
 
-Given(/^I inserted (\d+) as the year$/) do |numYears|
-  pending # Write code here that turns the phrase above into concrete actions
+Given(/^I inserted (\d+{1000,2015}) as the year$/) do |numYears|
+  puts "the years inserted is "+ numYears
 end
 
-Given(/^I inserted henrry(\d+) as the username$/) do |username|
-  pending # Write code here that turns the phrase above into concrete actions
+Given(/^I inserted (.*) as the username$/) do |username|
+  puts "the username inserted is: "+username
 end
 
 Then(/^the email address should be ([a-zA-Z_])@gmail.com$/) do |usermail|
-  
+  puts "the email inserted: "+usermail
 end
 
 Given(/^I inserted password as the password twice$/) do |pass|
-  pending # Write code here that turns the phrase above into concrete actions
+  puts "the pass inserted is: "+pass
 end

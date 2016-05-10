@@ -12,12 +12,12 @@ Given I Selected 5 as the bolivian value flag
 	And I inserted 75283779 as the mobile phone
 
 Scenario: validate birthday date
-	And I select 15 as the month
+	Given I select 15 as the month
 	And I inserted 32 as day 
 	And I inserted 1992 as the year
 
 Scenario: validate username
-And I inserted henrry99 as the username
+Given  I inserted henrry99 as the username
 Then the email address should be henrry99@gmail.com
 
 Scenario: validate password

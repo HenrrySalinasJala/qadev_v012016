@@ -5,4 +5,5 @@ Write a feature file that contains 2 scenarios, each one with steps that need a 
 3. Noncapturing group
 E.G. 1 scenario with a sentence to eat # of apples (aple if it is one), another with the amount of money to pay and the type of payment(credit card, money,etc)and some final step that can be described with different words. 
 
-Scenario: something
+Scenario: Something
+

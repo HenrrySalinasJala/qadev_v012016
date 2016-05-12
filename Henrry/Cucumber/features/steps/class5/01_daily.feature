@@ -14,8 +14,8 @@ Background: wake up
 Scenario: Make the breakfast
 Given I have milk
 	And I have sugar
-	And I have spoon 
-	And I have cup
+	And I have a spoon 
+	And I have a cup
 When I put the milk in the cup
 	And I put the sugar in the cup
 	And I move the milk with the spoon
@@ -26,8 +26,8 @@ Then  I should have a breakfast
 Scenario: Make the breakfast
 Given I have milk
 	And I have sugar
-	And I have spoon 
-	And I have cup
+	And I have a spoon 
+	And I have a cup
 	But the milk is timed out
 When I put the milk in the cup
 	And I put the sugar in the cup

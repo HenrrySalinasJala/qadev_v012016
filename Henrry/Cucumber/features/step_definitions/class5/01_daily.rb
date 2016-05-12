@@ -10,7 +10,7 @@ Then(/^I should (awaken)$/) do |expected|
   p expected
 end
 
-Given(/^I have ? (milk|sugar|spoon|cup)$/) do |kitchenUtils|
+Given(/^I have a?(milk|sugar| spoon| cup)$/) do |kitchenUtils|
   p kitchenUtils
 end
 

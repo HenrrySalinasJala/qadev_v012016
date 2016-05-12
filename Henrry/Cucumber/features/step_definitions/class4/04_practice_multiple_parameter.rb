@@ -1,6 +1,6 @@
 Given(/^I have (\d+) resources? registered$/) do |numResources|
   puts "num resources"+numResources.to_s
- end
+end
 
 Given(/^i have (\d+) computers? in the shopping cart$/) do |numComputers|
   puts numComputers
@@ -18,6 +18,9 @@ end
 Then(/^the item should (deleted)$/) do |button|
   puts "the item was deleted"
 end
+
+
+
 
 
 #http://arjanvandergaag.nl/blog/cucumber-tips.html

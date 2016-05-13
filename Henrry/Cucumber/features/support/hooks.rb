@@ -20,3 +20,17 @@ Before('@tagOr1,@tagOr2') do |scenario|
   # with @some AND @any.
   puts " HOOK OR: #{scenario.name}"
 end
+
+Before('@boundary_test') do |scenario|
+  puts "This is the Boundary case for #{scenario.name}"
+end
+
+Before('@positive_test') do |scenario|
+  puts "This is the Boundary case for #{scenario.name}"
+end
+Before('@negative_test') do |scenario|
+  puts "This is the Boundary case for #{scenario.name}"
+end
+Before('@boundary_test') do |scenario|
+  puts "This is the Boundary case for #{scenario.name}"
+end
